@@ -6,3 +6,5 @@ zhiasdnf
 git is excellent.
 zhangtiantianshigetiancai
 butstillworkhard
+
+create a new branch is quick.
